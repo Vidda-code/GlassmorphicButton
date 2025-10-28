@@ -57,4 +57,7 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
+
+    // Glass-morphic
+    //implementation("com.github.Dimezis:BlurView:1.6.8")
 }
